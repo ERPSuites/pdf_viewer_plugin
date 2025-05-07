@@ -39,7 +39,7 @@ android {
 
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation ('com.github.DImuthuUpe:AndroidPdfViewer:2.8.1') {
+    implementation ('io.github.afreakyelf:Pdf-Viewer:2.1.1') {
         force = true
     }
 }
